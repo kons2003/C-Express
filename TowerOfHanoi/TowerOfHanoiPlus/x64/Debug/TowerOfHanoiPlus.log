@@ -1,0 +1,5 @@
+﻿  HanoiPlus.c
+C:\Users\User\source\repos\TowerOfHanoi\TowerOfHanoiPlus\HanoiPlus.c(16,39): warning C4133: '=': 'int *'과(와) 'char *' 사이의 형식이 호환되지 않습니다.
+C:\Users\User\source\repos\TowerOfHanoi\TowerOfHanoiPlus\HanoiPlus.c(21,10): warning C4477: 'printf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int'입니다.
+C:\Users\User\source\repos\TowerOfHanoi\TowerOfHanoiPlus\HanoiPlus.c(21,10): warning C4313: 'printf': 서식 문자열의 '%s'이(가) 인수 1('int' 형식)과(와) 충돌합니다.
+  TowerOfHanoiPlus.vcxproj -> C:\Users\User\source\repos\TowerOfHanoi\x64\Debug\TowerOfHanoiPlus.exe
